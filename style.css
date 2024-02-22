@@ -1,0 +1,26 @@
+#form{
+    padding: 20px; 
+    margin:10% 0% 10% 50%;
+    border: solid 5px;
+    text-align: center;
+    border-radius: 90px 20px 20px 90px;
+    position: relative;
+}
+button{
+    background-color: blue;
+    border-radius: 12px;
+    color: beige;
+    margin: 15%, 15%;
+    padding: 10px;
+    width: 50%;
+
+    text-align: center;
+}
+ #container{
+ padding: 20px;   
+ margin:10% ;
+ border: solid 1px;
+ border-radius: 20px 90px 90px 20px;
+
+
+}
